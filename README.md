@@ -1,6 +1,6 @@
 <h2 align="center">
   <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a> 
-  Hello Work!! I'm Henrique
+  Hello!! I'm Henrique
 </h2>
 <p align="center">
   <a href="https://www.linkedin.com/in/hnvas/">LinkedIn</a>
